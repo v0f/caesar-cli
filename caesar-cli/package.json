@@ -1,0 +1,11 @@
+{
+  "name": "caesar-cli",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "caesar.js",
+  "author": "",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}

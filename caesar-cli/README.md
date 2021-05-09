@@ -5,7 +5,6 @@ This CLI tool will encode and decode a text by [Caesar cipher](https://en.wikipe
 ## Prerequisites: install NPM modules
 
 ``` bash
-$ cd caesar-cli
 $ npm install
 ```
 
